@@ -1,0 +1,5 @@
+rootProject.name = 'todo-modules-demo'
+include 'todo-domain'
+include 'todo-main'
+include 'feature-api'
+
